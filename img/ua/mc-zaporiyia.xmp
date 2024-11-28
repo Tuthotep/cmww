@@ -1,0 +1,36 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:GIMP="http://www.gimp.org/xmp/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:MicrosoftPhoto="http://ns.microsoft.com/photo/1.0/">
+         <xmpMM:DocumentID>gimp:docid:gimp:c5e1cb04-0d8f-4a67-bb10-b509990849d1</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:9f753861-1b07-42cc-8cf8-6adc1417ff38</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:dbac0c09-8b83-4826-a4c2-3c25fa1dfffa</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:changed>/</stEvt:changed>
+                  <stEvt:instanceID>xmp.iid:17da2339-1c83-4040-8131-beb435a15594</stEvt:instanceID>
+                  <stEvt:softwareAgent>Gimp 2.10 (Linux)</stEvt:softwareAgent>
+                  <stEvt:when>+02:00</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <GIMP:API>2.0</GIMP:API>
+         <GIMP:Platform>Linux</GIMP:Platform>
+         <GIMP:TimeStamp>1717642987191201</GIMP:TimeStamp>
+         <GIMP:Version>2.10.22</GIMP:Version>
+         <dc:Format>image/png</dc:Format>
+         <tiff:Orientation>1</tiff:Orientation>
+         <xmp:CreatorTool>GIMP 2.10</xmp:CreatorTool>
+         <xmp:Rating>0</xmp:Rating>
+         <MicrosoftPhoto:Rating>0</MicrosoftPhoto:Rating>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>

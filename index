@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRITICALMASS WORLDWIDE</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <!-- Header -->
+        <header id="top-header" class="header-home">
+            <div class="grid">
+                <div class="col-1-1">
+                    <div class="content">
+                          <nav class="navigation">
+                            <label for="nav-button" onclick></label>
+                            <ul class="nav-container">
+                                <li><a href="#home" class="current">Home</a></li>
+                                <li><a href="#europa">Europa</a></li>
+                                <li><a href="#america">America</a></li>
+                                <li><a href="#asia">Asia</a></li>
+                                <li><a href="#oceania">Oceania</a></li>
+                                <li><a href="#africa">Africa</a></li>
+                                <li><a href="#contact">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- End Header -->
+
+    <h1>CRITICALMASS WORLDWIDE</h1>
+    <img src="./img/critical1.jpg" alt="">
+    <p><br>
+      <script src="index.js"></script>
+    </p>
+  </body>
+</html>
