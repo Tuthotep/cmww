@@ -2,11 +2,12 @@
 <html lang="es">
 <head>
   <?php include("./head.php"); ?>
+
 </head>
 
 
 <body>
-
+<script src="index.js"></script> 
 
 
 
@@ -26,12 +27,6 @@
 <!-- Intro - Regions -->
 <?php include("./intro.php"); ?>
 
-
-
-
-
-
-
 </div>
 
 
@@ -41,7 +36,9 @@
 <div id="footer">
   <?php include("./footer.php"); ?>
 </div>
-   
+  
+
+
 </body>
 <!-- End body -->
 </html>
